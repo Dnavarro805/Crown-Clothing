@@ -29,7 +29,7 @@ const config = {
           displayName,
           email,
           createdAt,
-          ... additionalData
+          ...additionalData
         });
       } catch(error) {
         console.log('error creating user', error.message);
