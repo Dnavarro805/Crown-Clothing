@@ -7,4 +7,3 @@ E-commerce online shop for women's and men’s clothing. Users can navigate thro
 
 ## Run Locally
 To access the website, click on the following URL:\
-https://royal-clothing-live.herokuapp.com/
